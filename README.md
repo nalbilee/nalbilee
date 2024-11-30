@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-@Nalbi_Matsov-26A5E4?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
 <a href="tel:+79002537352">
-  <img src="https://img.shields.io/badge/📱+77474029171-black?style=flat" alt="Phone"/>
+  <img src="https://img.shields.io/badge/📱+79002537352-black?style=flat" alt="Phone"/>
 </a>
 
 ---
