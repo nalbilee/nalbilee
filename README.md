@@ -82,13 +82,12 @@
 
 ## 📫 Связь со мной
 
-Всегда открыт для новых возможностей и профессионального общения.  
-Выберите удобный способ:
-
-- [LinkedIn](https://www.linkedin.com/in/nalbi-matsov-750545334/) – деловые контакты  
-- [Telegram](https://t.me/Nalbi_Matsov) – быстрая связь  
-- [Email](mailto:nalbimatsov@gmail.com) – официальные запросы  
-- [GitHub](https://github.com/nalbilee) – все проекты
+<p align="center">
+  <a href="https://www.linkedin.com/in/nalbi-matsov-750545334/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" title="LinkedIn" alt="LinkedIn" width="40" height="40" style="border-radius: 50%;"/></a>
+  <a href="https://t.me/Nalbi_Matsov"><img src="https://cdn.simpleicons.org/telegram/26A5E4" title="Telegram" alt="Telegram" width="40" height="40" style="border-radius: 50%;"/></a>
+  <a href="mailto:nalbimatsov@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" title="Email" alt="Email" width="40" height="40" style="border-radius: 50%;"/></a>
+  <a href="https://github.com/nalbilee"><img src="https://cdn.simpleicons.org/github/181717" title="GitHub" alt="GitHub" width="40" height="40" style="border-radius: 50%;"/></a>
+</p>
 
 ---
 
