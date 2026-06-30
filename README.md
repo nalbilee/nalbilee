@@ -68,8 +68,7 @@
 
 ## 📂 Проекты и примеры работ
 
-### 1️⃣ Автоматизация на Java
-[![GitHub](https://img.shields.io/badge/Репозиторий-181717?style=flat-square&logo=github)](https://github.com/nalbilee/JavaTestAutomation/tree/master)
+### 1️⃣ [Автоматизация на Java](https://github.com/nalbilee/JavaTestAutomation/tree/master)
 
 **Описание**: Разработал фреймворк для автоматизированного тестирования веб-приложения, покрывающий UI и API слои.
 
@@ -87,8 +86,7 @@
 
 ---
 
-### 2️⃣ Тестирование интернет-магазина
-[![GitHub](https://img.shields.io/badge/Репозиторий-181717?style=flat-square&logo=github)](https://github.com/nalbilee/web_testing)
+### 2️⃣ [Тестирование интернет-магазина](https://github.com/nalbilee/web_testing)
 
 **Описание**: Провел полный цикл ручного тестирования веб-приложения интернет-магазина (главная страница, каталог, корзина, оформление заказа, личный кабинет).
 
@@ -107,8 +105,7 @@
 
 ---
 
-### 3️⃣ API-тестирование (REST/SOAP)
-[![GitHub](https://img.shields.io/badge/Репозиторий-181717?style=flat-square&logo=github)](https://github.com/nalbilee/api_testing)
+### 3️⃣ [API-тестирование (REST/SOAP)](https://github.com/nalbilee/api_testing)
 
 **Описание**: Выполнил комплексное тестирование REST и SOAP API тестового приложения.
 
@@ -129,8 +126,7 @@
 
 ---
 
-### 4️⃣ SQL-запросы
-[![GitHub](https://img.shields.io/badge/Репозиторий-181717?style=flat-square&logo=github)](https://github.com/nalbilee/sql)
+### 4️⃣ [SQL-запросы](https://github.com/nalbilee/sql)
 
 **Описание**: Работал с реляционной базой данных MySQL для валидации данных и подготовки тестовых сценариев.
 
@@ -147,8 +143,7 @@
 
 ---
 
-### 5️⃣ MongoDB
-[![GitHub](https://img.shields.io/badge/Репозиторий-181717?style=flat-square&logo=github)](https://github.com/nalbilee/mongodb)
+### 5️⃣ [MongoDB](https://github.com/nalbilee/mongodb)
 
 **Описание**: Работал с документоориентированной базой данных MongoDB для тестирования и валидации данных.
 
@@ -164,8 +159,7 @@
 
 ---
 
-### 6️⃣ Тестирование Android-приложений
-[![GitHub](https://img.shields.io/badge/Репозиторий-181717?style=flat-square&logo=github)](https://github.com/nalbilee/mobile_testing)
+### 6️⃣ [Тестирование Android-приложений](https://github.com/nalbilee/mobile_testing)
 
 **Описание**: Провел функциональное и регрессионное тестирование Android-приложения.
 
@@ -186,8 +180,7 @@
 
 ---
 
-### 7️⃣ Charles Proxy
-[![GitHub](https://img.shields.io/badge/Репозиторий-181717?style=flat-square&logo=github)](https://github.com/nalbilee/charlesproxy)
+### 7️⃣ [Charles Proxy](https://github.com/nalbilee/charlesproxy)
 
 **Описание**: Использовал Charles Proxy для перехвата и модификации сетевого трафика при тестировании мобильных и веб-приложений.
 
@@ -205,8 +198,7 @@
 
 ---
 
-### 8️⃣ Bash-скрипты
-[![GitHub](https://img.shields.io/badge/Репозиторий-181717?style=flat-square&logo=github)](https://github.com/nalbilee/bash)
+### 8️⃣ [Bash-скрипты](https://github.com/nalbilee/bash)
 
 **Описание**: Разработал скрипты для автоматизации рутинных задач в тестировании.
 
@@ -225,8 +217,7 @@
 
 ---
 
-### 9️⃣ Git-практика
-[![GitHub](https://img.shields.io/badge/Репозиторий-181717?style=flat-square&logo=github)](https://github.com/nalbilee/git)
+### 9️⃣ [Git-практика](https://github.com/nalbilee/git)
 
 **Описание**: Эффективно использую Git для управления версиями и командной работы.
 
