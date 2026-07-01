@@ -64,17 +64,19 @@ I'm a Manual QA Engineer with hands-on experience in functional, regression, and
 
 ---
 
-## 📂 Projects & Portfolio
+## 📂 Portfolio Projects
 
-- [Java Test Automation](https://github.com/nalbilee/JavaTestAutomation/tree/master) – UI and API automation using JUnit, Selenium, and RestAssured.
-- [Web Testing](https://github.com/nalbilee/web_testing) – Test cases, checklists, bug reports, and testing documentation.
-- [REST & SOAP API Testing](https://github.com/nalbilee/api_testing) – Postman collections and JavaScript test scripts.
-- [SQL Practice](https://github.com/nalbilee/sql) – Complex SQL queries, JOINs, aggregations, and window functions.
-- [MongoDB](https://github.com/nalbilee/mongodb) – Aggregation pipelines, indexes, and document-based queries.
-- [Mobile Testing](https://github.com/nalbilee/mobile_testing) – Android testing artifacts, checklists, logs, and ADB commands.
-- [Charles Proxy](https://github.com/nalbilee/charlesproxy) – Traffic interception, response mocking, geolocation spoofing, and throttling.
-- [Bash Scripts](https://github.com/nalbilee/bash) – Automation of routine tasks using Bash.
-- [Git Practice](https://github.com/nalbilee/git) – Branching, merging, rebasing, and version control workflows.
+| # | Project | Description | Repository |
+|---|---------|-------------|------------|
+| 1 | **UI Test Automation (Java)** | Selenium WebDriver + JUnit + Maven. Page Object Model, Allure reports. | [java-ui-test-automation](https://github.com/nalbilee/java-ui-test-automation) |
+| 2 | **Web Testing (e‑commerce)** | Manual testing artifacts: test cases, checklists, bug reports in Jira. | [web-testing-portfolio](https://github.com/nalbilee/web-testing-portfolio) |
+| 3 | **API Testing (Postman)** | REST & SOAP collections, environment variables, JavaScript tests. | [api-testing-postman](https://github.com/nalbilee/api-testing-postman) |
+| 4 | **Mobile Testing (Android)** | Checklists, ADB commands, logs, and compatibility testing. | [mobile-testing-portfolio](https://github.com/nalbilee/mobile-testing-portfolio) |
+| 5 | **SQL for QA** | Complex queries, JOINs, window functions, CTEs. | [sql-for-qa](https://github.com/nalbilee/sql-for-qa) |
+| 6 | **MongoDB** | Aggregation pipelines, indexing, document validation. | [mongodb](https://github.com/nalbilee/mongodb) |
+| 7 | **Charles Proxy** | Traffic interception, map local, throttle, rewrite. | [charles-proxy-examples](https://github.com/nalbilee/charles-proxy-examples) |
+| 8 | **Bash Scripts** | Automation of routine tasks (backups, test data setup). | [bash](https://github.com/nalbilee/bash) |
+| 9 | **Git Practice** | Branching, merging, rebasing, conventional commits. | [git](https://github.com/nalbilee/git) |
 
 ---
 
